@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bjlnae8yn58hhnx9?svg=true)](https://ci.appveyor.com/project/Boarderbare/aqa-dz2-1)
